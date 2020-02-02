@@ -1,9 +1,7 @@
 # rsschool-cv
 Osmanov Kirill
 2. +375257500285, kirikgaiety@gmail.com
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+3. Potential, passion and ability to learn fast.
 4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
 5. Code examples (LATEST)
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
